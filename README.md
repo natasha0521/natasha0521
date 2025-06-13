@@ -9,7 +9,7 @@
 
 <img align="right" width=300px alt="Unicorn" src="https://i.gifer.com/XOsX.gif" />
 
-## <img src="https://i.gifer.com/Y3il.gif" width="40px">&nbsp;***About me***
+## <img src="https://i.gifer.com/Y3il.gif" width="40px"/>;***About me***
 
 
 I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad. C, C++, Python, Javascript, HTML, and Shell are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
