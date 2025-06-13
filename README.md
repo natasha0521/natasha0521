@@ -19,7 +19,7 @@ I am an undergraduate Computer science student at National University of Colombi
 - 👯 I’m looking forward to collaborate on open source projects for learn more and try my skills.
 - ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
 - Outside tech, 🎧 I love listen to music, ✏️ drawing , 🐈‍⬛ being with my pets, and 🌇 hanging outside.
-- 📫 Reach out to me at: <a href="ctangarifeg@unal.edu.co">bhargavi.kurukunda@students.iiit.ac.in</a>
+- 📫 Reach out to me at: <a href="ctangarifeg@unal.edu.co">ctangarifeg@unal.edu.co</a>
 
 
 <h2>👀 My github Stats</h2>
@@ -40,6 +40,5 @@ I am an undergraduate Computer science student at National University of Colombi
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natasha0521&layout=compact)
 
 ---------------------------------------------------------------------------------------------------------------------
-Credits: <a href="https://github.com/Bhargavi-hash">Bhargavi-hash</a>
 
 Date: 13/06/2025
